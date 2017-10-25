@@ -1,0 +1,16 @@
+{
+  "Testcases/test_case_sample.py::test_Cron1_AupPreferences": true, 
+  "Testcases/test_cron2_populateForecastDate.py::test_cron2_populateForecaseDate": true, 
+  "Testcases/test_cron3_performAupUpgradeSiteCreation.py::test_cron3_performAupUpgradeSiteCreation": true, 
+  "test_django.py": true, 
+  "test_django.py::TestDjango::testApp": true, 
+  "test_django.py::TestDjango::testMethod": true, 
+  "test_pyreporting.py::test_sayHello": true, 
+  "test_pyreporting.py::test_screenshot_on_test_failure": true, 
+  "tests/Test_Cron1_AupPreferences.py::test_teardown": true, 
+  "tests/Test_Cron2_PopulateForecastDate.py::test_teardown": true, 
+  "tests/Test_Cron3_PerformAupUpgradeSiteCreation.py::test_teardown": true, 
+  "tests/Test_Cron4_PerformCruxAndCXIntegration.py::test_teardown": true, 
+  "tests/test_Cron2_PopulateForecastDate.py::test_Cron2_PopulateForecaseDate": true, 
+  "tests/test_case_sample.py::test_Cron4_CruxCxRestIntegration_cron4": true
+}

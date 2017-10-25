@@ -1,0 +1,17 @@
+1508914865518	geckodriver	INFO	geckodriver 0.18.0
+1508914865541	geckodriver	INFO	Listening on 127.0.0.1:62249
+1508914867606	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64.dll v=0.0.0.0
+1508914870693	Marionette	INFO	Listening on port 62256
+1508914870923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1508914604464	Marionette	INFO	New connections will no longer be accepted
+ Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1508398356898	Marionette	INFO	Ceased listening
+ionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+JavaScript error: chrome://pippki/content/exceptionDialog.js, line 328: NS_ERROR_XPC_GS_RETURNED_FAILURE: Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]
+1508395080231	Marionette	INFO	Ceased listening

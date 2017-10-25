@@ -1,0 +1,6 @@
+{
+  "Test_Cron3_PerformAupUpgradeSiteCreation.py::test_Cron3_PerformAupUpgradeSiteCreation": true, 
+  "test_case.py::test_Cron4_CruxCxRestIntegration_cron4": true, 
+  "test_case1.py::test_find_flights[Mexico City-Dublin]": true, 
+  "test_case1.py::test_find_flights[Portland-Berlin]": true
+}
